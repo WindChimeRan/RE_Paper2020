@@ -1,0 +1,17 @@
+* Relation Extraction in 2020
+
+This repo covers almost all the papers related to Relation Extraction in ACL, EMNLP, NAACL, AAAI, IJCAI in 2020. (also contains some papers from arxiv)
+
+
+** AAAI2020
+
+1. *Neural Snowball for Few-Shot Relation Learning* /Tianyu Gao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun/ [[https://arxiv.org/abs/1908.11007][paper]]
+
+#+BEGIN_QUOTE
+ aaaa
+aaas
+
+asd
+
+asd
+#+END_QUOTE
