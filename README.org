@@ -7,11 +7,9 @@ This repo covers almost all the papers related to Relation Extraction in ACL, EM
 
 1. *Neural Snowball for Few-Shot Relation Learning* /Tianyu Gao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, Maosong Sun/ [[https://arxiv.org/abs/1908.11007][paper]]
 
-#+BEGIN_QUOTE
- aaaa
-aaas
+  <2019-12-17 Tue> 
 
-asd
-
-asd
-#+END_QUOTE
+  | few shot | boostrapping | snowball |   
+ #+BEGIN_QUOTE
+  seed -> train nn -> new seed -> iterate... 
+ #+END_QUOTE
